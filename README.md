@@ -1,4 +1,4 @@
-[![Foo](http://localhost:3075/arron-099/penguin-head/badge.svg)](http://localhost:3075/arron-099/penguin-head)
+[![Datmo Model](http://preview.datmo.io/shabazp/face-recognition/badge.svg)](http://preview.datmo.io/shabazp/face-recognition)
 
 ## Datmo CLI 
    [Documentation](https://acusense.github.io/datmo-cli-docs/)
