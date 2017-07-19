@@ -1,4 +1,4 @@
-[![Datmo Model](http://preview.datmo.io/shabazp/face-recognition/badge.svg)](http://preview.datmo.io/shabazp/face-recognition)
+[![Datmo Model](https://datmo.io/shabazp/face-recognition/badge.svg)](https://datmo.io/shabazp/face-recognition)
 
 ## Datmo CLI 
    [Documentation](https://acusense.github.io/datmo-cli-docs/)
