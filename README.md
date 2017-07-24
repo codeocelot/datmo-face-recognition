@@ -1,11 +1,14 @@
-[![Datmo Model](http://preview.datmo.io/shabazp/face-recognition/badge.svg)](http://preview.datmo.io/shabazp/face-recognition)
+# "datmo face recognition"
+
+[![Datmo Model](https://beta.datmo.io/shabazp/datmo-face-recognition/badge.svg)](https://beta.datmo.io/shabazp/datmo-face-recognition)
+Computer vision model for facial recognition
 
 ## Datmo CLI 
    [Documentation](https://acusense.github.io/datmo-cli-docs/)
    
 ## Face-Recognition
 
-  This repository comprises main tasks required to be done using facial recognition
+  This repository comprises main tasks required to be done using facial recognition. For training run, `python recognition.py`
 
 ### 1. Face Detection ([detection](https://github.com/Acusense/face-recognition/blob/master/src/detection.py))
 * To find bounding box for faces.
