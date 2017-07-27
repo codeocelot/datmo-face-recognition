@@ -1,6 +1,6 @@
 # "datmo face recognition"
 
-[![Datmo Model](https://beta.datmo.io/shabazp/datmo-face-recognition/badge.svg)](https://beta.datmo.io/shabazp/datmo-face-recognition)
+[![Datmo Model](https://datmo.io/shabazp/datmo-face-recognition/badge.svg)](https://datmo.io/shabazp/datmo-face-recognition)
 Computer vision model for facial recognition
 
 ## Datmo CLI 
