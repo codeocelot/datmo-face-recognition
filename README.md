@@ -1,10 +1,7 @@
-# "datmo face recognition"
+# Datmo Face Recognition
 
 [![Datmo Model](https://datmo.io/shabazp/datmo-face-recognition/badge.svg)](https://datmo.io/shabazp/datmo-face-recognition)
 Computer vision model for facial recognition
-
-## Datmo CLI 
-   [Documentation](https://acusense.github.io/datmo-cli-docs/)
    
 ## Face-Recognition
 
